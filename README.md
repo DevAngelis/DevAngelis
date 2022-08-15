@@ -3,7 +3,7 @@
 
 ![Jotape GitHub stats](https://github-readme-stats.vercel.app/api?username=devangelis&show_icons=true&theme=synthwave)
 
-### Skills and Programs:
+### Skills and Tools:
 
 <div style="display: inline_block"><br/>
     <img align="center "alt="photshop"src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
