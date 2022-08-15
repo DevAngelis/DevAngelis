@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**DevAngelis/DevAngelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### (・_・)ノ Hello, My name is John and I study(I think...) programming and a few other things. 
 
-Here are some ideas to get you started:
+![Jotape GitHub stats](https://github-readme-stats.vercel.app/api?username=devangelis&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Programs:
+
+<div style="display: inline_block"><br/>
+    <img align="center "alt="photshop"src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+    <img align="center "alt="illustrator"src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+    <img align="center "alt="figma"src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img align="center "alt="c"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align="center "alt="js"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center "alt="node"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
