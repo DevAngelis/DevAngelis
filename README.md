@@ -1,7 +1,9 @@
 
 ### (・_・)ノ Hello, My name is John and I study(I think...) programming and a few other things. 
 
-![Jotape GitHub stats](https://github-readme-stats.vercel.app/api?username=devangelis&show_icons=true&theme=synthwave)
+![Jotape's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangelis&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangelis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills and Tools:
 
